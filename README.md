@@ -10,7 +10,8 @@
   - [Questions](#questions)
 
   ## Description
-  J.A.T.E (Just another text editor) is a note taking app. It is a persistent web app meaning that all your notes are stored in a DB that can then be recalled whenever you like! The app can also be installed via your web browser so you can run this app even when offline. The interface is reminicent of a CLI interface. 
+  J.A.T.E (Just another text editor) is a note taking app. It is a persistent web app meaning that all your notes are stored in a DB that can then be recalled whenever you like! The app can also be installed via your web browser so you can run this app even when offline. The interface is reminicent of a CLI interface. ![JATE 1](https://user-images.githubusercontent.com/111769559/227799211-0e003964-8941-4505-9109-5efafb4fa7fd.png)
+
 
   ## Installation
   Open a terminal and you will need to run 'npm i' to install the neccessary packages. 
